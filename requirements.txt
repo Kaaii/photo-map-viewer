@@ -1,0 +1,4 @@
+dash==2.5.1
+pandas==1.4.2
+Pillow==9.1.1
+pillow_heif==0.3.0

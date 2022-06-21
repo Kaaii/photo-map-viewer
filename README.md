@@ -3,6 +3,8 @@
 App uses Mapbox to display photos on the world map based on the gps info of those photos. Clicking on a point shows the photo besides the map, provided that the photos are able to be loaded in a local /assets/ folder.
 
 ### Requirements
+* Python 3.10 was used 
+* requirements.txt contains modules used
 * Requires an /assets/ folder that contains photo images (.jpg, .jpeg, .heic) to display the photos and create the DataFrame with the relevant EXIF metadata to plot them on a map.
 * Requires a Mapbox public access token (free to create an account) stored as 'mapbox_token' in the local directory
 
