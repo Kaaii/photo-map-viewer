@@ -2,3 +2,5 @@ assets/
 *.ipynb
 mapbox_token
 saved_df.csv
+__pycache__
+.ipynb_checkpoints
