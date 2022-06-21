@@ -29,7 +29,7 @@ import photos_util
 
 # path to the photos folder which should be located in same dir as app.py
 # this is where the photos are read from
-ASSETS_PATH = Path(os.getcwd())/'assets'\
+ASSETS_PATH = Path(os.getcwd())/'assets'
 
 # look for mapbox access token used for generating the map
 # todo: could alter so that if no mapbox, uses default plotly geomap
